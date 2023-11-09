@@ -1,17 +1,15 @@
 body{
     background:blueviolet;
- }
+}
+
 h1 {
-
-       text-align: center;
-
-
-     }
-     p  { 
     text-align: center;
- }
+}
 
-  strong { 
+p  { 
+    text-align: center;
+}
 
+strong { 
     color:oldlace
- }
+}
